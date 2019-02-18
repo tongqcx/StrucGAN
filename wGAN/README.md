@@ -18,15 +18,6 @@ Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875
 
 Two main empirical claims:
 
-### Generator sample quality correlates with discriminator loss
-
-![gensample](imgs/w_combined.png "sample quality correlates with discriminator loss")
-
-### Improved model stability
-
-![stability](imgs/compare_dcgan.png "stability")
-
-
 ## Reproducing LSUN experiments
 
 **With DCGAN:**
