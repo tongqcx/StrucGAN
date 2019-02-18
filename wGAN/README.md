@@ -14,7 +14,7 @@ Code accompanying the paper ["Wasserstein GAN"](https://arxiv.org/abs/1701.07875
 
 - Computer with Linux or OSX
 - [PyTorch](http://pytorch.org)
-- [h5py] (http://www.h5py.org/)
+- [h5py](http://www.h5py.org/)
 - For training, an NVIDIA GPU is strongly recommended for speed. CPU is supported but training is very slow.
 
 Two main empirical claims:
