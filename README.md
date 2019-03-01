@@ -17,7 +17,7 @@ python setup.py install
 ```
 to install the package in your machine  
 
-### Step2: Structure encoding, and generating training set file struc.h5 by script ${StrucGANPath}/tools/gan_deal_struc.py
+### Step2: Structure encoding, and generating struc.h5 file for training wGAN by script ${StrucGANPath}/tools/gan_deal_struc.py
 ```bash
 python gan_deal_struc.py --xyz2hd5 --xyzpath=Your Dir contains structure files in xyz format
 ```
